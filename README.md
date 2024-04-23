@@ -45,23 +45,3 @@ You may also see any lint errors in the console.
 
 <br/>
 <br/>
-
-## 💻 Screens
-
-
-### Sign up
-![signup](https://www.awesomescreenshot.com/image/47680893?key=d316988b0d5a873cae9bfac3cb41362f)
-
-### Sign In
-
-
-![signin](https://user-images.githubusercontent.com/102378038/199895895-d1fca464-3734-4a54-ab08-d8bbbbd9af65.png)
-
-### Reset Password 
-
-![reset_password](https://user-images.githubusercontent.com/102378038/199895937-d2677488-4be3-4f53-bfbb-63f6b201caa1.png)
-
-
-
-
-
