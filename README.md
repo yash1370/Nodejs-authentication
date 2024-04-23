@@ -18,7 +18,7 @@ In the project directory, you can run:
 
 ### `npm start`
 Runs the app in the development mode.\
-Open [http://localhost:5000](http://localhost:5000) to view it in your browser.
+Open [http://localhost:8000](http://localhost:8000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
@@ -40,7 +40,7 @@ You may also see any lint errors in the console.
 
 ## 🔗 Links
 
-> ## Checkout the Youtube Video  https://youtu.be/kFTOO2aabW0
+> ## Checkout the Youtube Video  https://www.awesomescreenshot.com/video/26981832?key=b317d65fba0252d1a98c9642c4551516
 
 
 <br/>
@@ -50,7 +50,7 @@ You may also see any lint errors in the console.
 
 
 ### Sign up
-![signup](https://user-images.githubusercontent.com/102378038/199895773-c19de43c-9fc3-4446-ae36-e93c095330d1.png)
+![signup](https://www.awesomescreenshot.com/image/47680893?key=d316988b0d5a873cae9bfac3cb41362f)
 
 ### Sign In
 
